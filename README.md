@@ -12,7 +12,7 @@ Simulink cuenta con librerias de bloques (Blocksets) de prácticamente todas las
 
 ## Tabla de Contenido
 1. [Abrir Simulink](#z-KOxsxKy1rTNQWzRm-p4)
-2. [Abrir Simulink (2)](#U3SA-Ty6n-6_Z1qeCqsqD)
+2. [Abrir Simulink (Opción 2)](#U3SA-Ty6n-6_Z1qeCqsqD)
 3. [Crear un Nuevo Modelo](#ZGZ2IfP0d2yP_H7-mdw43)
 4. [Abrir Librerias Disponibles](#onrMfHBDhaK-Za8Hf8bLw)
 5. [Bibliotecas disponibles](#O4CtIe66kGsNzpjHo8wG2)
